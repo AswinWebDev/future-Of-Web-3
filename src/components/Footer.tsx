@@ -3,10 +3,10 @@ import laptopImage from "../assets/images/image-top-laptops.jpg";
 import retroImage from "../assets/images/image-retro-pcs.jpg";
 import gamingImage from "../assets/images/image-gaming-growth.jpg";
 import { secondaryDarkGrayishBlue, secondaryVeryDarkBlue } from "../colors";
-import { secondaryNeutralWhite } from "../colors";
+
 import { primaryColorRed } from "../colors";
 import { secondaryGrayishBlue } from "../colors";
-// import {secondaryVeryDarkBlue} from "../colors";
+
 const Footer = () => {
   const Parent = styled.div`
     display: flex;
